@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T14:38:04.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="tY4Rvfj1D0vSillljvOA" type="github"><diagram id="Kfh99Tsa6bGMKGHw5Mdd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-07T15:08:14.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="e5LApXzgiBCGVlR27bnb" version="18.0.2" type="github">
+  <diagram id="Kfh99Tsa6bGMKGHw5Mdd" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-1" target="ixZOxzrDHC6qJqPlq0gN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-1" value="NUGU야&lt;br&gt;초록이에 연결해줘" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-2" target="ixZOxzrDHC6qJqPlq0gN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-2" value="연결되었습니다" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-3" target="ixZOxzrDHC6qJqPlq0gN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-3" value="초록이한테 물 줘&lt;br&gt;(영양제/비료 줘)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-4" value="초록이가 물을 먹었습니다" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-5" target="ixZOxzrDHC6qJqPlq0gN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-5" value="NUGU야&lt;br&gt;몬스테라 이름바꿔줘" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-9" value="네 &lt;br&gt;변경되었습니다." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-10" target="ixZOxzrDHC6qJqPlq0gN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-10" value="어떤 이름으로 &lt;br&gt;변경하시겠습니까?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-11" target="ixZOxzrDHC6qJqPlq0gN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-11" value="초록이로 변경해줘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-18" target="ixZOxzrDHC6qJqPlq0gN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-18" value="NUGU야 초록이&amp;nbsp;&lt;br&gt;햇빛 보여줘" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-22" value="초록이 방 커튼을&lt;br&gt;열었습니다." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ixZOxzrDHC6qJqPlq0gN-24" target="ixZOxzrDHC6qJqPlq0gN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-24" value="NUGU야 초록이&amp;nbsp;&lt;br&gt;햇빛으로 옮겨줘" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ixZOxzrDHC6qJqPlq0gN-25" value="초록이가&lt;br&gt;베란다/정원으로&lt;br&gt;이동했습니다" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
